@@ -15,18 +15,8 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-if 5 > 2:
-  print("Five is greater than two!")
-  print("Hello, World!")
-  print("Hello, World!")
 
-if 5 > 2:
- print("Five is greater than two!")
-if 5 > 2:
-        print("Five is greater than two!")
 
-x = 5
-y = "Hello, World!"
 
-print(x)
-print(y)
+#This is a comment.
+print("Hello, World!")
