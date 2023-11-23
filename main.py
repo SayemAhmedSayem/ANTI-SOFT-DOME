@@ -42,3 +42,9 @@ z = float(3)
 print(x)
 print(y)
 print(z)
+
+x = "John"
+print(x)
+#double quotes are the same as single quotes:
+x = 'John'
+print(x)
