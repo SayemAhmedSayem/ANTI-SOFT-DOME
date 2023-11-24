@@ -48,3 +48,20 @@ print(x)
 #double quotes are the same as single quotes:
 x = 'John'
 print(x)
+
+#This is a comment
+print("Hello, World!")
+
+#Variable Names
+myvar = "John"
+my_var = "John"
+_my_var = "John"
+myVar = "John"
+MYVAR = "John"
+myvar2 = "John"
+
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
