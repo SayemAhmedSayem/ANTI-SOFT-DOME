@@ -85,3 +85,7 @@ x, y, z = fruits
 print(x)
 print(y)
 print(z)
+
+#Python - Output Variables
+x = "Python is awesome"
+print(x)
