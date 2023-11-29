@@ -89,3 +89,10 @@ print(z)
 #Python - Output Variables
 x = "Python is awesome"
 print(x)
+
+#Python - Output multiple Variables
+
+x = "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)
