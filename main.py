@@ -96,3 +96,9 @@ x = "Python"
 y = "is"
 z = "awesome"
 print(x, y, z)
+
+#+ operator to output multiple variables
+x = "Python "
+y = "is "
+z = "awesome"
+print(x + y + z)
