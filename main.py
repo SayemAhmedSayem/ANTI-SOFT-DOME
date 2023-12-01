@@ -102,3 +102,8 @@ x = "Python "
 y = "is "
 z = "awesome"
 print(x + y + z)
+
+#+ character works as a mathematical operator
+x = 5
+y = 10
+print(x + y)
