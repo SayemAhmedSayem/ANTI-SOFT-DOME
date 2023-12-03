@@ -18,97 +18,14 @@ if __name__ == '__main__':
 
 
 
-#This is a comment.
-print("Hello, World!")
+#Python - Global Variables
 
-#This is a comment
-#written in
-#more than just one line
-print("Hello, World!")
+x = "awesome"
 
-x = 5
-y = "John"
-print(x)
-print(y)
+def myfunc():
+  print("Python is " + x)
 
-x = 4       # x is of type int
-x = "Sally" # x is now of type str
-print(x)
-
-x = str(3)
-y = int(3)
-z = float(3)
-
-print(x)
-print(y)
-print(z)
-
-x = "John"
-print(x)
-#double quotes are the same as single quotes:
-x = 'John'
-print(x)
-
-#This is a comment
-print("Hello, World!")
-
-#Variable Names
-myvar = "John"
-my_var = "John"
-_my_var = "John"
-myVar = "John"
-MYVAR = "John"
-myvar2 = "John"
+myfunc()
 
 
-print(myvar)
-print(my_var)
-print(_my_var)
-print(myVar)
 
-#Many Values to Multiple Variables
-x, y, z = "Orange", "Banana", "Cherry"
-
-print(x)
-print(y)
-print(z)
-
-#One Value to Multiple Variables
-x = y = z = "Orange"
-print(x)
-print(y)
-print(z)
-
-#Unpack a Collection
-fruits = ["apple", "banana", "cherry"]
-x, y, z = fruits
-print(x)
-print(y)
-print(z)
-
-#Python - Output Variables
-x = "Python is awesome"
-print(x)
-
-#Python - Output multiple Variables
-
-x = "Python"
-y = "is"
-z = "awesome"
-print(x, y, z)
-
-#+ operator to output multiple variables
-x = "Python "
-y = "is "
-z = "awesome"
-print(x + y + z)
-
-#+ character works as a mathematical operator
-x = 5
-y = 10
-print(x + y)
-
-#+ character works as a mathematical operator
-x = 5
-y = "John"
-print(x + y)
