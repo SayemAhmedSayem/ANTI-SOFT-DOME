@@ -102,6 +102,16 @@ print(x)
 #display the data type of x:
 print(type(x))
 
+#Python Number - There are three numeric types in Python
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+
 
 
 
