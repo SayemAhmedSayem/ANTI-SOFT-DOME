@@ -1,2 +1,2 @@
 # PRO-CRUSH-DOM
-PRO-CRUSH-DOM is a online protection DOM.
+PRO-CRUSH-DOM is an online protection DOM.
