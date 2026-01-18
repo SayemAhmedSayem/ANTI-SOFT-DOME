@@ -49,7 +49,7 @@ print("Python is " + x)
 
 print("Python is " + x)
 
-#x = "awesome"
+x = "awesome"
 
 def myfunc():
   global x
@@ -103,7 +103,7 @@ print(x)
 #display the data type of x:
 print(type(x))
 
-#Python Number - There are three numeric types in Python
+Python Number - There are three numeric types in Python
 x = 1    # int
 y = 2.8  # float
 z = 1j   # complex
