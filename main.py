@@ -81,7 +81,7 @@ print(type(x))
 
 x = 20.5
 
-#display x:
+display x:
 print(x)
 
 #display the data type of x:
