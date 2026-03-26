@@ -103,7 +103,7 @@ print(x)
 #display the data type of x:
 print(type(x))
 
-Python Number - There are three numeric types in Python
+#Python Number - There are three numeric types in Python
 x = 1    # int
 y = 2.8  # float
 z = 1j   # complex
@@ -112,7 +112,7 @@ print(type(x))
 print(type(y))
 print(type(z))
 
-Python Number - Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length
+#Python Number - Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length
 x = 1
 y = 35656222554887711
 z = -3255522
@@ -120,6 +120,9 @@ z = -3255522
 print(type(x))
 print(type(y))
 print(type(z))
+
+
+print("Hello, World!")
 
 
 
