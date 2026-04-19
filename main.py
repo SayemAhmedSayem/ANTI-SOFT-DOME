@@ -106,8 +106,6 @@ print(type(x))
 #Python Number - There are three numeric types in Python
 x = 1    # int
 y = 2.8  # float
-o = 3
-
 print(type(x))
 print(type(y))
 
