@@ -92,22 +92,6 @@ x = ["apple", "banana", "cherry"]
 #display x:
 print(x)
 
-#display the data type of x:
-print(type(x))
-
-x = {"name" : "John", "age" : 36}
-
-#display x:
-print(x)
-
-#display the data type of x:
-print(type(x))
-
-#Python Number - There are three numeric types in Python
-x = 1    # int
-y = 2.8  # float
-print(type(x))
-print(type(y))
 
 
 
