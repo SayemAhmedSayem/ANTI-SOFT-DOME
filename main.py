@@ -82,7 +82,7 @@ print(type(x))
 x = 20.5
 
 display x:
-print(x)
+
 
 
 
