@@ -83,6 +83,8 @@ x = 20.5
 
 display x:
 
+print("Hello, World!")
+
 
 
 
