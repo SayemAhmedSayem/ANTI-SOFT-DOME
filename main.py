@@ -85,6 +85,10 @@ display x:
 
 print("Hello, World!")
 
+import sys
+
+print(sys.version)
+
 
 
 
