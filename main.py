@@ -115,4 +115,6 @@ if 5 > 2:
 #print("Have a good day.")
 #print("Learning Python is fun!")
 
+#print("Hello"); print("How are you?"); print("Bye bye!")
+
 print("Hello"); print("How are you?"); print("Bye bye!")
