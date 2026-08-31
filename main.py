@@ -118,3 +118,6 @@ if 5 > 2:
 #print("Hello"); print("How are you?"); print("Bye bye!")
 
 #print("Hello"); print("How are you?"); print("Bye bye!")
+print(3)
+print(358)
+print(50000)
