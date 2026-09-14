@@ -128,6 +128,8 @@ if 5 > 2:
 #print("Python is fun!") print("Really!")
 
 #Text in Python must be inside quotes. You can use either " double quotes or ' single quotes:
-print("This will work!")
-print('This will also work!')
+#print("This will work!")
+#print('This will also work!')
+print("Hello World!", end=" ")
+print("I will print on the same line.")
 
