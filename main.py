@@ -130,6 +130,7 @@ if 5 > 2:
 #Text in Python must be inside quotes. You can use either " double quotes or ' single quotes:
 #print("This will work!")
 #print('This will also work!')
-print("Hello World!", end=" ")
-print("I will print on the same line.")
+#print("Hello World!", end=" ")
+#print("I will print on the same line.")
+print("I am", 35, "years old.")
 
